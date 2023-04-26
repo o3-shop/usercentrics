@@ -36,6 +36,7 @@ $aModule = [
                  </form>
                  '
     ],
+    'thumbnail' => 'logo.png',
     'version' => '1.0.0',
     'author' => 'O3-Shop',
     'events' => [],

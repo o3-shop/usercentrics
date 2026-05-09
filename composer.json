@@ -39,5 +39,8 @@
   },
   "replace": {
     "oxid-professional-services/usercentrics": "1.2.1"
+  },
+  "archive": {
+    "exclude": [".next-bump"]
   }
 }
